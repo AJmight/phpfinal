@@ -6,12 +6,12 @@
 The COCIS Football League Management System is a web-based application developed using Laravel to manage football leagues efficiently. It allows administrators to oversee teams, fixtures, match results, player statistics, and standings. The system provides a user-friendly interface for both administrators and users to interact with league data in real time.
 
 ## 🚀 Features  
->>Team Management: Add, update, and remove teams.
->>Match Scheduling: Create and manage fixtures.
->>Player Management: Add and update player details.
->>Live Scores & Results: Update match results dynamically.
->>Standings & Rankings: Automatically update league standings based on match results.
->>User Authentication: Secure login system for administrators.
+##>Team Management: Add, update, and remove teams.
+##>Match Scheduling: Create and manage fixtures.
+##>Player Management: Add and update player details.
+##>Live Scores & Results: Update match results dynamically.
+##>Standings & Rankings: Automatically update league standings based on match results.
+##>User Authentication: Secure login system for administrators.
 
 
 ## 🛠️ Technologies used 
